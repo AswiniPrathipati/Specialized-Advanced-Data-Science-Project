@@ -1,0 +1,25 @@
+{
+  "uptime_seconds": 0.01,
+  "total_requests": 200,
+  "error_count": 0,
+  "error_rate": 0.0,
+  "requests_per_second": 200.0,
+  "label_distribution": {
+    "Negative": 0.345,
+    "Neutral": 0.295,
+    "Positive": 0.36
+  },
+  "avg_confidence": {
+    "Positive": 0.8052245921427408,
+    "Negative": 0.7924453768457617,
+    "Neutral": 0.7683757241307243
+  },
+  "latency_stats": {
+    "p50": 46.41861337795025,
+    "p95": 77.02103513005889,
+    "p99": 78.98003091852742,
+    "mean": 45.573831243438775
+  },
+  "drift_analysis": {
+    "kl_divergence": 0.0028,
+    "drift_detected": 

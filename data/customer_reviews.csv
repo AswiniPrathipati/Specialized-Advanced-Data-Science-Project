@@ -1,0 +1,601 @@
+id,review,sentiment,label
+1,"Great quality, fast delivery. Will definitely buy again!",2,Positive
+2,Complete garbage. Stopped working after a week. Total scam.,0,Negative
+3,Arrived damaged and company refused to replace it. Awful experience.,0,Negative
+4,Worst purchase ever. Does not work as advertised. Very disappointed.,0,Negative
+5,Exceptional quality. Would highly recommend this to everyone.,2,Positive
+6,Total disappointment. Save your money and buy from someone else.,0,Negative
+7,"Product is okay, nothing special but does the job.",1,Neutral
+8,Worst purchase ever. Does not work as advertised. Very disappointed.,0,Negative
+9,Arrived damaged and company refused to replace it. Awful experience.,0,Negative
+10,"Brilliant product, delivered quickly, exactly as described.",2,Positive
+11,Returned immediately. Completely useless and overpriced.,0,Negative
+12,Returned immediately. Completely useless and overpriced.,0,Negative
+13,It is alright. Does what it says. Not amazing but not bad.,1,Neutral
+14,Satisfactory. Meets the basic requirements.,1,Neutral
+15,"Product is okay, nothing special but does the job.",1,Neutral
+16,"Cheap materials, bad design. Would not recommend to anyone.",0,Negative
+17,Product arrived on time. Quality is acceptable.,1,Neutral
+18,Arrived damaged and company refused to replace it. Awful experience.,0,Negative
+19,Average quality. Expected more for the price but it works.,1,Neutral
+20,"Cheap materials, bad design. Would not recommend to anyone.",0,Negative
+21,Extremely disappointed. Product looked nothing like the pictures.,0,Negative
+22,Satisfactory. Meets the basic requirements.,1,Neutral
+23,"Product is okay, nothing special but does the job.",1,Neutral
+24,Love it! Perfect for my needs. Will order more soon.,2,Positive
+25,"Great quality, fast delivery. Will definitely buy again!",2,Positive
+26,Average quality. Expected more for the price but it works.,1,Neutral
+27,"Fantastic product, excellent value for money. Very satisfied.",2,Positive
+28,"Brilliant product, delivered quickly, exactly as described.",2,Positive
+29,Satisfactory. Meets the basic requirements.,1,Neutral
+30,Worst purchase ever. Does not work as advertised. Very disappointed.,0,Negative
+31,Arrived damaged and company refused to replace it. Awful experience.,0,Negative
+32,Average quality. Expected more for the price but it works.,1,Neutral
+33,Worst purchase ever. Does not work as advertised. Very disappointed.,0,Negative
+34,Product arrived on time. Quality is acceptable.,1,Neutral
+35,Works as described. Nothing extraordinary but gets the job done.,1,Neutral
+36,Extremely disappointed. Product looked nothing like the pictures.,0,Negative
+37,It is alright. Does what it says. Not amazing but not bad.,1,Neutral
+38,"Fantastic product, excellent value for money. Very satisfied.",2,Positive
+39,"Great quality, fast delivery. Will definitely buy again!",2,Positive
+40,Outstanding customer service and the product is amazing.,2,Positive
+41,Best purchase I made this year. Highly recommend to everyone.,2,Positive
+42,Horrible product and even worse customer support. Avoid at all costs.,0,Negative
+43,Product arrived on time. Quality is acceptable.,1,Neutral
+44,Exceptional quality. Would highly recommend this to everyone.,2,Positive
+45,Extremely disappointed. Product looked nothing like the pictures.,0,Negative
+46,Arrived damaged and company refused to replace it. Awful experience.,0,Negative
+47,Extremely disappointed. Product looked nothing like the pictures.,0,Negative
+48,Product arrived on time. Quality is acceptable.,1,Neutral
+49,Arrived damaged and company refused to replace it. Awful experience.,0,Negative
+50,Super happy with my order. Everything arrived on time and works great.,2,Positive
+51,Horrible product and even worse customer support. Avoid at all costs.,0,Negative
+52,Average experience overall. Product is usable but not impressive.,1,Neutral
+53,Complete garbage. Stopped working after a week. Total scam.,0,Negative
+54,Arrived damaged and company refused to replace it. Awful experience.,0,Negative
+55,Exceptional quality. Would highly recommend this to everyone.,2,Positive
+56,"Fantastic product, excellent value for money. Very satisfied.",2,Positive
+57,"Brilliant product, delivered quickly, exactly as described.",2,Positive
+58,Satisfactory. Meets the basic requirements.,1,Neutral
+59,Works as described. Nothing extraordinary but gets the job done.,1,Neutral
+60,Poor quality and customer service was unhelpful. Never buying again.,0,Negative
+61,Love it! Perfect for my needs. Will order more soon.,2,Positive
+62,Terrible product! Broke after one day of use. Complete waste of money.,0,Negative
+63,Poor quality and customer service was unhelpful. Never buying again.,0,Negative
+64,Outstanding customer service and the product is amazing.,2,Positive
+65,Incredible product! Far better than I expected. Five stars!,2,Positive
+66,"Great quality, fast delivery. Will definitely buy again!",2,Positive
+67,"Okay product, reasonable price. Would not go out of my way to recommend.",1,Neutral
+68,Love it! Perfect for my needs. Will order more soon.,2,Positive
+69,"Fantastic product, excellent value for money. Very satisfied.",2,Positive
+70,Absolutely love this product! Works perfectly and exceeded my expectations.,2,Positive
+71,"Great quality, fast delivery. Will definitely buy again!",2,Positive
+72,Exceptional quality. Would highly recommend this to everyone.,2,Positive
+73,Works as described. Nothing extraordinary but gets the job done.,1,Neutral
+74,Complete garbage. Stopped working after a week. Total scam.,0,Negative
+75,Decent product. Shipping was fine. Nothing to complain about.,1,Neutral
+76,"Product is okay, nothing special but does the job.",1,Neutral
+77,"Fantastic product, excellent value for money. Very satisfied.",2,Positive
+78,Outstanding customer service and the product is amazing.,2,Positive
+79,"Great quality, fast delivery. Will definitely buy again!",2,Positive
+80,"Fantastic product, excellent value for money. Very satisfied.",2,Positive
+81,Exceptional quality. Would highly recommend this to everyone.,2,Positive
+82,Best purchase I made this year. Highly recommend to everyone.,2,Positive
+83,Extremely disappointed. Product looked nothing like the pictures.,0,Negative
+84,Returned immediately. Completely useless and overpriced.,0,Negative
+85,Absolutely love this product! Works perfectly and exceeded my expectations.,2,Positive
+86,Super happy with my order. Everything arrived on time and works great.,2,Positive
+87,"Product is okay, nothing special but does the job.",1,Neutral
+88,Extremely disappointed. Product looked nothing like the pictures.,0,Negative
+89,It is alright. Does what it says. Not amazing but not bad.,1,Neutral
+90,Arrived damaged and company refused to replace it. Awful experience.,0,Negative
+91,"Great quality, fast delivery. Will definitely buy again!",2,Positive
+92,Horrible product and even worse customer support. Avoid at all costs.,0,Negative
+93,Returned immediately. Completely useless and overpriced.,0,Negative
+94,Poor quality and customer service was unhelpful. Never buying again.,0,Negative
+95,Love it! Perfect for my needs. Will order more soon.,2,Positive
+96,Outstanding customer service and the product is amazing.,2,Positive
+97,Fine product. Does what it is supposed to. No issues.,1,Neutral
+98,Incredible product! Far better than I expected. Five stars!,2,Positive
+99,Returned immediately. Completely useless and overpriced.,0,Negative
+100,Best purchase I made this year. Highly recommend to everyone.,2,Positive
+101,"Fantastic product, excellent value for money. Very satisfied.",2,Positive
+102,Works as described. Nothing extraordinary but gets the job done.,1,Neutral
+103,Fine product. Does what it is supposed to. No issues.,1,Neutral
+104,Average quality. Expected more for the price but it works.,1,Neutral
+105,Arrived damaged and company refused to replace it. Awful experience.,0,Negative
+106,Extremely disappointed. Product looked nothing like the pictures.,0,Negative
+107,Total disappointment. Save your money and buy from someone else.,0,Negative
+108,Best purchase I made this year. Highly recommend to everyone.,2,Positive
+109,Best purchase I made this year. Highly recommend to everyone.,2,Positive
+110,Worst purchase ever. Does not work as advertised. Very disappointed.,0,Negative
+111,Absolutely love this product! Works perfectly and exceeded my expectations.,2,Positive
+112,Worst purchase ever. Does not work as advertised. Very disappointed.,0,Negative
+113,Extremely disappointed. Product looked nothing like the pictures.,0,Negative
+114,Returned immediately. Completely useless and overpriced.,0,Negative
+115,Complete garbage. Stopped working after a week. Total scam.,0,Negative
+116,Love it! Perfect for my needs. Will order more soon.,2,Positive
+117,Returned immediately. Completely useless and overpriced.,0,Negative
+118,Total disappointment. Save your money and buy from someone else.,0,Negative
+119,Love it! Perfect for my needs. Will order more soon.,2,Positive
+120,Horrible product and even worse customer support. Avoid at all costs.,0,Negative
+121,It is alright. Does what it says. Not amazing but not bad.,1,Neutral
+122,Worst purchase ever. Does not work as advertised. Very disappointed.,0,Negative
+123,Incredible product! Far better than I expected. Five stars!,2,Positive
+124,"Okay product, reasonable price. Would not go out of my way to recommend.",1,Neutral
+125,Average experience overall. Product is usable but not impressive.,1,Neutral
+126,Absolutely love this product! Works perfectly and exceeded my expectations.,2,Positive
+127,"Great quality, fast delivery. Will definitely buy again!",2,Positive
+128,"Cheap materials, bad design. Would not recommend to anyone.",0,Negative
+129,Super happy with my order. Everything arrived on time and works great.,2,Positive
+130,Arrived damaged and company refused to replace it. Awful experience.,0,Negative
+131,Arrived damaged and company refused to replace it. Awful experience.,0,Negative
+132,Love it! Perfect for my needs. Will order more soon.,2,Positive
+133,"Cheap materials, bad design. Would not recommend to anyone.",0,Negative
+134,Complete garbage. Stopped working after a week. Total scam.,0,Negative
+135,It is alright. Does what it says. Not amazing but not bad.,1,Neutral
+136,Horrible product and even worse customer support. Avoid at all costs.,0,Negative
+137,"Great quality, fast delivery. Will definitely buy again!",2,Positive
+138,Returned immediately. Completely useless and overpriced.,0,Negative
+139,Worst purchase ever. Does not work as advertised. Very disappointed.,0,Negative
+140,Poor quality and customer service was unhelpful. Never buying again.,0,Negative
+141,Average experience overall. Product is usable but not impressive.,1,Neutral
+142,It is alright. Does what it says. Not amazing but not bad.,1,Neutral
+143,"Product is okay, nothing special but does the job.",1,Neutral
+144,"Cheap materials, bad design. Would not recommend to anyone.",0,Negative
+145,"Cheap materials, bad design. Would not recommend to anyone.",0,Negative
+146,Average experience overall. Product is usable but not impressive.,1,Neutral
+147,"Okay product, reasonable price. Would not go out of my way to recommend.",1,Neutral
+148,Exceptional quality. Would highly recommend this to everyone.,2,Positive
+149,Love it! Perfect for my needs. Will order more soon.,2,Positive
+150,Arrived damaged and company refused to replace it. Awful experience.,0,Negative
+151,It is alright. Does what it says. Not amazing but not bad.,1,Neutral
+152,Total disappointment. Save your money and buy from someone else.,0,Negative
+153,Exceptional quality. Would highly recommend this to everyone.,2,Positive
+154,Extremely disappointed. Product looked nothing like the pictures.,0,Negative
+155,Terrible product! Broke after one day of use. Complete waste of money.,0,Negative
+156,Love it! Perfect for my needs. Will order more soon.,2,Positive
+157,Exceptional quality. Would highly recommend this to everyone.,2,Positive
+158,Terrible product! Broke after one day of use. Complete waste of money.,0,Negative
+159,"Great quality, fast delivery. Will definitely buy again!",2,Positive
+160,Worst purchase ever. Does not work as advertised. Very disappointed.,0,Negative
+161,"Great quality, fast delivery. Will definitely buy again!",2,Positive
+162,Best purchase I made this year. Highly recommend to everyone.,2,Positive
+163,Average quality. Expected more for the price but it works.,1,Neutral
+164,Best purchase I made this year. Highly recommend to everyone.,2,Positive
+165,"Brilliant product, delivered quickly, exactly as described.",2,Positive
+166,Total disappointment. Save your money and buy from someone else.,0,Negative
+167,"Cheap materials, bad design. Would not recommend to anyone.",0,Negative
+168,"Brilliant product, delivered quickly, exactly as described.",2,Positive
+169,Exceptional quality. Would highly recommend this to everyone.,2,Positive
+170,Product arrived on time. Quality is acceptable.,1,Neutral
+171,Extremely disappointed. Product looked nothing like the pictures.,0,Negative
+172,Complete garbage. Stopped working after a week. Total scam.,0,Negative
+173,Decent product. Shipping was fine. Nothing to complain about.,1,Neutral
+174,"Fantastic product, excellent value for money. Very satisfied.",2,Positive
+175,Works as described. Nothing extraordinary but gets the job done.,1,Neutral
+176,Terrible product! Broke after one day of use. Complete waste of money.,0,Negative
+177,Satisfactory. Meets the basic requirements.,1,Neutral
+178,"Great quality, fast delivery. Will definitely buy again!",2,Positive
+179,Returned immediately. Completely useless and overpriced.,0,Negative
+180,Returned immediately. Completely useless and overpriced.,0,Negative
+181,Decent product. Shipping was fine. Nothing to complain about.,1,Neutral
+182,Average quality. Expected more for the price but it works.,1,Neutral
+183,Extremely disappointed. Product looked nothing like the pictures.,0,Negative
+184,Decent product. Shipping was fine. Nothing to complain about.,1,Neutral
+185,Fine product. Does what it is supposed to. No issues.,1,Neutral
+186,"Fantastic product, excellent value for money. Very satisfied.",2,Positive
+187,Exceptional quality. Would highly recommend this to everyone.,2,Positive
+188,Returned immediately. Completely useless and overpriced.,0,Negative
+189,Average quality. Expected more for the price but it works.,1,Neutral
+190,Complete garbage. Stopped working after a week. Total scam.,0,Negative
+191,Worst purchase ever. Does not work as advertised. Very disappointed.,0,Negative
+192,Exceptional quality. Would highly recommend this to everyone.,2,Positive
+193,Complete garbage. Stopped working after a week. Total scam.,0,Negative
+194,Satisfactory. Meets the basic requirements.,1,Neutral
+195,Extremely disappointed. Product looked nothing like the pictures.,0,Negative
+196,Complete garbage. Stopped working after a week. Total scam.,0,Negative
+197,Love it! Perfect for my needs. Will order more soon.,2,Positive
+198,"Product is okay, nothing special but does the job.",1,Neutral
+199,"Cheap materials, bad design. Would not recommend to anyone.",0,Negative
+200,"Product is okay, nothing special but does the job.",1,Neutral
+201,Extremely disappointed. Product looked nothing like the pictures.,0,Negative
+202,Complete garbage. Stopped working after a week. Total scam.,0,Negative
+203,Horrible product and even worse customer support. Avoid at all costs.,0,Negative
+204,Incredible product! Far better than I expected. Five stars!,2,Positive
+205,Absolutely love this product! Works perfectly and exceeded my expectations.,2,Positive
+206,Worst purchase ever. Does not work as advertised. Very disappointed.,0,Negative
+207,Outstanding customer service and the product is amazing.,2,Positive
+208,Absolutely love this product! Works perfectly and exceeded my expectations.,2,Positive
+209,Satisfactory. Meets the basic requirements.,1,Neutral
+210,Outstanding customer service and the product is amazing.,2,Positive
+211,Decent product. Shipping was fine. Nothing to complain about.,1,Neutral
+212,Complete garbage. Stopped working after a week. Total scam.,0,Negative
+213,"Product is okay, nothing special but does the job.",1,Neutral
+214,It is alright. Does what it says. Not amazing but not bad.,1,Neutral
+215,Best purchase I made this year. Highly recommend to everyone.,2,Positive
+216,"Great quality, fast delivery. Will definitely buy again!",2,Positive
+217,Fine product. Does what it is supposed to. No issues.,1,Neutral
+218,Satisfactory. Meets the basic requirements.,1,Neutral
+219,Outstanding customer service and the product is amazing.,2,Positive
+220,Poor quality and customer service was unhelpful. Never buying again.,0,Negative
+221,"Cheap materials, bad design. Would not recommend to anyone.",0,Negative
+222,Poor quality and customer service was unhelpful. Never buying again.,0,Negative
+223,Super happy with my order. Everything arrived on time and works great.,2,Positive
+224,It is alright. Does what it says. Not amazing but not bad.,1,Neutral
+225,Decent product. Shipping was fine. Nothing to complain about.,1,Neutral
+226,"Great quality, fast delivery. Will definitely buy again!",2,Positive
+227,"Product is okay, nothing special but does the job.",1,Neutral
+228,It is alright. Does what it says. Not amazing but not bad.,1,Neutral
+229,Horrible product and even worse customer support. Avoid at all costs.,0,Negative
+230,Product arrived on time. Quality is acceptable.,1,Neutral
+231,Arrived damaged and company refused to replace it. Awful experience.,0,Negative
+232,Arrived damaged and company refused to replace it. Awful experience.,0,Negative
+233,Works as described. Nothing extraordinary but gets the job done.,1,Neutral
+234,Average quality. Expected more for the price but it works.,1,Neutral
+235,Works as described. Nothing extraordinary but gets the job done.,1,Neutral
+236,Exceptional quality. Would highly recommend this to everyone.,2,Positive
+237,Fine product. Does what it is supposed to. No issues.,1,Neutral
+238,"Product is okay, nothing special but does the job.",1,Neutral
+239,Complete garbage. Stopped working after a week. Total scam.,0,Negative
+240,Total disappointment. Save your money and buy from someone else.,0,Negative
+241,"Product is okay, nothing special but does the job.",1,Neutral
+242,Total disappointment. Save your money and buy from someone else.,0,Negative
+243,Works as described. Nothing extraordinary but gets the job done.,1,Neutral
+244,Super happy with my order. Everything arrived on time and works great.,2,Positive
+245,Satisfactory. Meets the basic requirements.,1,Neutral
+246,"Great quality, fast delivery. Will definitely buy again!",2,Positive
+247,Satisfactory. Meets the basic requirements.,1,Neutral
+248,Complete garbage. Stopped working after a week. Total scam.,0,Negative
+249,"Cheap materials, bad design. Would not recommend to anyone.",0,Negative
+250,Returned immediately. Completely useless and overpriced.,0,Negative
+251,Best purchase I made this year. Highly recommend to everyone.,2,Positive
+252,"Okay product, reasonable price. Would not go out of my way to recommend.",1,Neutral
+253,Extremely disappointed. Product looked nothing like the pictures.,0,Negative
+254,Super happy with my order. Everything arrived on time and works great.,2,Positive
+255,"Great quality, fast delivery. Will definitely buy again!",2,Positive
+256,"Fantastic product, excellent value for money. Very satisfied.",2,Positive
+257,"Fantastic product, excellent value for money. Very satisfied.",2,Positive
+258,Incredible product! Far better than I expected. Five stars!,2,Positive
+259,"Okay product, reasonable price. Would not go out of my way to recommend.",1,Neutral
+260,"Fantastic product, excellent value for money. Very satisfied.",2,Positive
+261,Outstanding customer service and the product is amazing.,2,Positive
+262,"Cheap materials, bad design. Would not recommend to anyone.",0,Negative
+263,Incredible product! Far better than I expected. Five stars!,2,Positive
+264,Outstanding customer service and the product is amazing.,2,Positive
+265,"Brilliant product, delivered quickly, exactly as described.",2,Positive
+266,"Okay product, reasonable price. Would not go out of my way to recommend.",1,Neutral
+267,Absolutely love this product! Works perfectly and exceeded my expectations.,2,Positive
+268,Product arrived on time. Quality is acceptable.,1,Neutral
+269,"Cheap materials, bad design. Would not recommend to anyone.",0,Negative
+270,"Brilliant product, delivered quickly, exactly as described.",2,Positive
+271,Super happy with my order. Everything arrived on time and works great.,2,Positive
+272,Average experience overall. Product is usable but not impressive.,1,Neutral
+273,It is alright. Does what it says. Not amazing but not bad.,1,Neutral
+274,Love it! Perfect for my needs. Will order more soon.,2,Positive
+275,Outstanding customer service and the product is amazing.,2,Positive
+276,"Great quality, fast delivery. Will definitely buy again!",2,Positive
+277,Fine product. Does what it is supposed to. No issues.,1,Neutral
+278,"Brilliant product, delivered quickly, exactly as described.",2,Positive
+279,Average quality. Expected more for the price but it works.,1,Neutral
+280,Complete garbage. Stopped working after a week. Total scam.,0,Negative
+281,Arrived damaged and company refused to replace it. Awful experience.,0,Negative
+282,Terrible product! Broke after one day of use. Complete waste of money.,0,Negative
+283,Arrived damaged and company refused to replace it. Awful experience.,0,Negative
+284,Satisfactory. Meets the basic requirements.,1,Neutral
+285,Horrible product and even worse customer support. Avoid at all costs.,0,Negative
+286,Satisfactory. Meets the basic requirements.,1,Neutral
+287,"Cheap materials, bad design. Would not recommend to anyone.",0,Negative
+288,"Okay product, reasonable price. Would not go out of my way to recommend.",1,Neutral
+289,Poor quality and customer service was unhelpful. Never buying again.,0,Negative
+290,Absolutely love this product! Works perfectly and exceeded my expectations.,2,Positive
+291,"Cheap materials, bad design. Would not recommend to anyone.",0,Negative
+292,Poor quality and customer service was unhelpful. Never buying again.,0,Negative
+293,Exceptional quality. Would highly recommend this to everyone.,2,Positive
+294,"Product is okay, nothing special but does the job.",1,Neutral
+295,Best purchase I made this year. Highly recommend to everyone.,2,Positive
+296,Horrible product and even worse customer support. Avoid at all costs.,0,Negative
+297,Horrible product and even worse customer support. Avoid at all costs.,0,Negative
+298,Exceptional quality. Would highly recommend this to everyone.,2,Positive
+299,"Brilliant product, delivered quickly, exactly as described.",2,Positive
+300,Average experience overall. Product is usable but not impressive.,1,Neutral
+301,Exceptional quality. Would highly recommend this to everyone.,2,Positive
+302,Fine product. Does what it is supposed to. No issues.,1,Neutral
+303,Decent product. Shipping was fine. Nothing to complain about.,1,Neutral
+304,Love it! Perfect for my needs. Will order more soon.,2,Positive
+305,Product arrived on time. Quality is acceptable.,1,Neutral
+306,Complete garbage. Stopped working after a week. Total scam.,0,Negative
+307,Love it! Perfect for my needs. Will order more soon.,2,Positive
+308,Best purchase I made this year. Highly recommend to everyone.,2,Positive
+309,Average experience overall. Product is usable but not impressive.,1,Neutral
+310,Complete garbage. Stopped working after a week. Total scam.,0,Negative
+311,Complete garbage. Stopped working after a week. Total scam.,0,Negative
+312,Works as described. Nothing extraordinary but gets the job done.,1,Neutral
+313,"Great quality, fast delivery. Will definitely buy again!",2,Positive
+314,Poor quality and customer service was unhelpful. Never buying again.,0,Negative
+315,"Cheap materials, bad design. Would not recommend to anyone.",0,Negative
+316,Outstanding customer service and the product is amazing.,2,Positive
+317,Best purchase I made this year. Highly recommend to everyone.,2,Positive
+318,"Cheap materials, bad design. Would not recommend to anyone.",0,Negative
+319,Works as described. Nothing extraordinary but gets the job done.,1,Neutral
+320,Love it! Perfect for my needs. Will order more soon.,2,Positive
+321,"Product is okay, nothing special but does the job.",1,Neutral
+322,"Cheap materials, bad design. Would not recommend to anyone.",0,Negative
+323,Satisfactory. Meets the basic requirements.,1,Neutral
+324,Absolutely love this product! Works perfectly and exceeded my expectations.,2,Positive
+325,Incredible product! Far better than I expected. Five stars!,2,Positive
+326,"Product is okay, nothing special but does the job.",1,Neutral
+327,Product arrived on time. Quality is acceptable.,1,Neutral
+328,"Okay product, reasonable price. Would not go out of my way to recommend.",1,Neutral
+329,Exceptional quality. Would highly recommend this to everyone.,2,Positive
+330,Best purchase I made this year. Highly recommend to everyone.,2,Positive
+331,It is alright. Does what it says. Not amazing but not bad.,1,Neutral
+332,"Okay product, reasonable price. Would not go out of my way to recommend.",1,Neutral
+333,"Product is okay, nothing special but does the job.",1,Neutral
+334,Works as described. Nothing extraordinary but gets the job done.,1,Neutral
+335,Incredible product! Far better than I expected. Five stars!,2,Positive
+336,Outstanding customer service and the product is amazing.,2,Positive
+337,Decent product. Shipping was fine. Nothing to complain about.,1,Neutral
+338,Exceptional quality. Would highly recommend this to everyone.,2,Positive
+339,"Cheap materials, bad design. Would not recommend to anyone.",0,Negative
+340,"Brilliant product, delivered quickly, exactly as described.",2,Positive
+341,Absolutely love this product! Works perfectly and exceeded my expectations.,2,Positive
+342,"Cheap materials, bad design. Would not recommend to anyone.",0,Negative
+343,Horrible product and even worse customer support. Avoid at all costs.,0,Negative
+344,Terrible product! Broke after one day of use. Complete waste of money.,0,Negative
+345,"Okay product, reasonable price. Would not go out of my way to recommend.",1,Neutral
+346,It is alright. Does what it says. Not amazing but not bad.,1,Neutral
+347,Works as described. Nothing extraordinary but gets the job done.,1,Neutral
+348,"Okay product, reasonable price. Would not go out of my way to recommend.",1,Neutral
+349,"Okay product, reasonable price. Would not go out of my way to recommend.",1,Neutral
+350,Average quality. Expected more for the price but it works.,1,Neutral
+351,"Product is okay, nothing special but does the job.",1,Neutral
+352,Exceptional quality. Would highly recommend this to everyone.,2,Positive
+353,Extremely disappointed. Product looked nothing like the pictures.,0,Negative
+354,Worst purchase ever. Does not work as advertised. Very disappointed.,0,Negative
+355,Absolutely love this product! Works perfectly and exceeded my expectations.,2,Positive
+356,Arrived damaged and company refused to replace it. Awful experience.,0,Negative
+357,Terrible product! Broke after one day of use. Complete waste of money.,0,Negative
+358,Outstanding customer service and the product is amazing.,2,Positive
+359,Poor quality and customer service was unhelpful. Never buying again.,0,Negative
+360,Average quality. Expected more for the price but it works.,1,Neutral
+361,Best purchase I made this year. Highly recommend to everyone.,2,Positive
+362,Product arrived on time. Quality is acceptable.,1,Neutral
+363,Decent product. Shipping was fine. Nothing to complain about.,1,Neutral
+364,"Brilliant product, delivered quickly, exactly as described.",2,Positive
+365,"Great quality, fast delivery. Will definitely buy again!",2,Positive
+366,Complete garbage. Stopped working after a week. Total scam.,0,Negative
+367,Total disappointment. Save your money and buy from someone else.,0,Negative
+368,Complete garbage. Stopped working after a week. Total scam.,0,Negative
+369,Incredible product! Far better than I expected. Five stars!,2,Positive
+370,It is alright. Does what it says. Not amazing but not bad.,1,Neutral
+371,Total disappointment. Save your money and buy from someone else.,0,Negative
+372,Best purchase I made this year. Highly recommend to everyone.,2,Positive
+373,Complete garbage. Stopped working after a week. Total scam.,0,Negative
+374,"Brilliant product, delivered quickly, exactly as described.",2,Positive
+375,Total disappointment. Save your money and buy from someone else.,0,Negative
+376,Extremely disappointed. Product looked nothing like the pictures.,0,Negative
+377,Incredible product! Far better than I expected. Five stars!,2,Positive
+378,Super happy with my order. Everything arrived on time and works great.,2,Positive
+379,Returned immediately. Completely useless and overpriced.,0,Negative
+380,Super happy with my order. Everything arrived on time and works great.,2,Positive
+381,"Cheap materials, bad design. Would not recommend to anyone.",0,Negative
+382,Average quality. Expected more for the price but it works.,1,Neutral
+383,Works as described. Nothing extraordinary but gets the job done.,1,Neutral
+384,Love it! Perfect for my needs. Will order more soon.,2,Positive
+385,Outstanding customer service and the product is amazing.,2,Positive
+386,Decent product. Shipping was fine. Nothing to complain about.,1,Neutral
+387,Exceptional quality. Would highly recommend this to everyone.,2,Positive
+388,"Fantastic product, excellent value for money. Very satisfied.",2,Positive
+389,Exceptional quality. Would highly recommend this to everyone.,2,Positive
+390,Average experience overall. Product is usable but not impressive.,1,Neutral
+391,Satisfactory. Meets the basic requirements.,1,Neutral
+392,Works as described. Nothing extraordinary but gets the job done.,1,Neutral
+393,Worst purchase ever. Does not work as advertised. Very disappointed.,0,Negative
+394,Average experience overall. Product is usable but not impressive.,1,Neutral
+395,Horrible product and even worse customer support. Avoid at all costs.,0,Negative
+396,"Brilliant product, delivered quickly, exactly as described.",2,Positive
+397,Incredible product! Far better than I expected. Five stars!,2,Positive
+398,"Product is okay, nothing special but does the job.",1,Neutral
+399,Works as described. Nothing extraordinary but gets the job done.,1,Neutral
+400,Horrible product and even worse customer support. Avoid at all costs.,0,Negative
+401,Extremely disappointed. Product looked nothing like the pictures.,0,Negative
+402,Works as described. Nothing extraordinary but gets the job done.,1,Neutral
+403,Satisfactory. Meets the basic requirements.,1,Neutral
+404,"Fantastic product, excellent value for money. Very satisfied.",2,Positive
+405,Absolutely love this product! Works perfectly and exceeded my expectations.,2,Positive
+406,Best purchase I made this year. Highly recommend to everyone.,2,Positive
+407,Arrived damaged and company refused to replace it. Awful experience.,0,Negative
+408,Incredible product! Far better than I expected. Five stars!,2,Positive
+409,Fine product. Does what it is supposed to. No issues.,1,Neutral
+410,Horrible product and even worse customer support. Avoid at all costs.,0,Negative
+411,Love it! Perfect for my needs. Will order more soon.,2,Positive
+412,"Product is okay, nothing special but does the job.",1,Neutral
+413,Complete garbage. Stopped working after a week. Total scam.,0,Negative
+414,"Cheap materials, bad design. Would not recommend to anyone.",0,Negative
+415,Best purchase I made this year. Highly recommend to everyone.,2,Positive
+416,Satisfactory. Meets the basic requirements.,1,Neutral
+417,Average experience overall. Product is usable but not impressive.,1,Neutral
+418,Exceptional quality. Would highly recommend this to everyone.,2,Positive
+419,"Okay product, reasonable price. Would not go out of my way to recommend.",1,Neutral
+420,Exceptional quality. Would highly recommend this to everyone.,2,Positive
+421,Works as described. Nothing extraordinary but gets the job done.,1,Neutral
+422,Love it! Perfect for my needs. Will order more soon.,2,Positive
+423,Product arrived on time. Quality is acceptable.,1,Neutral
+424,It is alright. Does what it says. Not amazing but not bad.,1,Neutral
+425,Arrived damaged and company refused to replace it. Awful experience.,0,Negative
+426,Average quality. Expected more for the price but it works.,1,Neutral
+427,Exceptional quality. Would highly recommend this to everyone.,2,Positive
+428,Outstanding customer service and the product is amazing.,2,Positive
+429,Arrived damaged and company refused to replace it. Awful experience.,0,Negative
+430,Love it! Perfect for my needs. Will order more soon.,2,Positive
+431,Satisfactory. Meets the basic requirements.,1,Neutral
+432,"Brilliant product, delivered quickly, exactly as described.",2,Positive
+433,Average quality. Expected more for the price but it works.,1,Neutral
+434,Complete garbage. Stopped working after a week. Total scam.,0,Negative
+435,Extremely disappointed. Product looked nothing like the pictures.,0,Negative
+436,Complete garbage. Stopped working after a week. Total scam.,0,Negative
+437,Returned immediately. Completely useless and overpriced.,0,Negative
+438,Complete garbage. Stopped working after a week. Total scam.,0,Negative
+439,Terrible product! Broke after one day of use. Complete waste of money.,0,Negative
+440,"Fantastic product, excellent value for money. Very satisfied.",2,Positive
+441,Outstanding customer service and the product is amazing.,2,Positive
+442,Love it! Perfect for my needs. Will order more soon.,2,Positive
+443,Terrible product! Broke after one day of use. Complete waste of money.,0,Negative
+444,"Fantastic product, excellent value for money. Very satisfied.",2,Positive
+445,Average experience overall. Product is usable but not impressive.,1,Neutral
+446,Works as described. Nothing extraordinary but gets the job done.,1,Neutral
+447,Terrible product! Broke after one day of use. Complete waste of money.,0,Negative
+448,Average experience overall. Product is usable but not impressive.,1,Neutral
+449,Worst purchase ever. Does not work as advertised. Very disappointed.,0,Negative
+450,Average experience overall. Product is usable but not impressive.,1,Neutral
+451,Total disappointment. Save your money and buy from someone else.,0,Negative
+452,Absolutely love this product! Works perfectly and exceeded my expectations.,2,Positive
+453,Poor quality and customer service was unhelpful. Never buying again.,0,Negative
+454,"Fantastic product, excellent value for money. Very satisfied.",2,Positive
+455,Arrived damaged and company refused to replace it. Awful experience.,0,Negative
+456,Returned immediately. Completely useless and overpriced.,0,Negative
+457,Satisfactory. Meets the basic requirements.,1,Neutral
+458,"Brilliant product, delivered quickly, exactly as described.",2,Positive
+459,Returned immediately. Completely useless and overpriced.,0,Negative
+460,Average experience overall. Product is usable but not impressive.,1,Neutral
+461,Product arrived on time. Quality is acceptable.,1,Neutral
+462,Incredible product! Far better than I expected. Five stars!,2,Positive
+463,Satisfactory. Meets the basic requirements.,1,Neutral
+464,Absolutely love this product! Works perfectly and exceeded my expectations.,2,Positive
+465,"Great quality, fast delivery. Will definitely buy again!",2,Positive
+466,Arrived damaged and company refused to replace it. Awful experience.,0,Negative
+467,Average quality. Expected more for the price but it works.,1,Neutral
+468,Arrived damaged and company refused to replace it. Awful experience.,0,Negative
+469,Returned immediately. Completely useless and overpriced.,0,Negative
+470,Poor quality and customer service was unhelpful. Never buying again.,0,Negative
+471,"Cheap materials, bad design. Would not recommend to anyone.",0,Negative
+472,Satisfactory. Meets the basic requirements.,1,Neutral
+473,Product arrived on time. Quality is acceptable.,1,Neutral
+474,Arrived damaged and company refused to replace it. Awful experience.,0,Negative
+475,Product arrived on time. Quality is acceptable.,1,Neutral
+476,Love it! Perfect for my needs. Will order more soon.,2,Positive
+477,Arrived damaged and company refused to replace it. Awful experience.,0,Negative
+478,Satisfactory. Meets the basic requirements.,1,Neutral
+479,Best purchase I made this year. Highly recommend to everyone.,2,Positive
+480,Average quality. Expected more for the price but it works.,1,Neutral
+481,Best purchase I made this year. Highly recommend to everyone.,2,Positive
+482,Outstanding customer service and the product is amazing.,2,Positive
+483,Decent product. Shipping was fine. Nothing to complain about.,1,Neutral
+484,Terrible product! Broke after one day of use. Complete waste of money.,0,Negative
+485,Complete garbage. Stopped working after a week. Total scam.,0,Negative
+486,"Brilliant product, delivered quickly, exactly as described.",2,Positive
+487,Average experience overall. Product is usable but not impressive.,1,Neutral
+488,Horrible product and even worse customer support. Avoid at all costs.,0,Negative
+489,"Fantastic product, excellent value for money. Very satisfied.",2,Positive
+490,Incredible product! Far better than I expected. Five stars!,2,Positive
+491,Fine product. Does what it is supposed to. No issues.,1,Neutral
+492,Love it! Perfect for my needs. Will order more soon.,2,Positive
+493,Average quality. Expected more for the price but it works.,1,Neutral
+494,Absolutely love this product! Works perfectly and exceeded my expectations.,2,Positive
+495,Works as described. Nothing extraordinary but gets the job done.,1,Neutral
+496,"Fantastic product, excellent value for money. Very satisfied.",2,Positive
+497,Worst purchase ever. Does not work as advertised. Very disappointed.,0,Negative
+498,Total disappointment. Save your money and buy from someone else.,0,Negative
+499,Absolutely love this product! Works perfectly and exceeded my expectations.,2,Positive
+500,"Fantastic product, excellent value for money. Very satisfied.",2,Positive
+501,Absolutely love this product! Works perfectly and exceeded my expectations.,2,Positive
+502,Horrible product and even worse customer support. Avoid at all costs.,0,Negative
+503,Love it! Perfect for my needs. Will order more soon.,2,Positive
+504,Decent product. Shipping was fine. Nothing to complain about.,1,Neutral
+505,Incredible product! Far better than I expected. Five stars!,2,Positive
+506,Love it! Perfect for my needs. Will order more soon.,2,Positive
+507,Horrible product and even worse customer support. Avoid at all costs.,0,Negative
+508,"Okay product, reasonable price. Would not go out of my way to recommend.",1,Neutral
+509,Works as described. Nothing extraordinary but gets the job done.,1,Neutral
+510,"Great quality, fast delivery. Will definitely buy again!",2,Positive
+511,Extremely disappointed. Product looked nothing like the pictures.,0,Negative
+512,Average experience overall. Product is usable but not impressive.,1,Neutral
+513,"Okay product, reasonable price. Would not go out of my way to recommend.",1,Neutral
+514,Absolutely love this product! Works perfectly and exceeded my expectations.,2,Positive
+515,Average quality. Expected more for the price but it works.,1,Neutral
+516,Product arrived on time. Quality is acceptable.,1,Neutral
+517,Average quality. Expected more for the price but it works.,1,Neutral
+518,Fine product. Does what it is supposed to. No issues.,1,Neutral
+519,Returned immediately. Completely useless and overpriced.,0,Negative
+520,"Okay product, reasonable price. Would not go out of my way to recommend.",1,Neutral
+521,Arrived damaged and company refused to replace it. Awful experience.,0,Negative
+522,Super happy with my order. Everything arrived on time and works great.,2,Positive
+523,Love it! Perfect for my needs. Will order more soon.,2,Positive
+524,Love it! Perfect for my needs. Will order more soon.,2,Positive
+525,Arrived damaged and company refused to replace it. Awful experience.,0,Negative
+526,Fine product. Does what it is supposed to. No issues.,1,Neutral
+527,Complete garbage. Stopped working after a week. Total scam.,0,Negative
+528,Average experience overall. Product is usable but not impressive.,1,Neutral
+529,Terrible product! Broke after one day of use. Complete waste of money.,0,Negative
+530,"Brilliant product, delivered quickly, exactly as described.",2,Positive
+531,Poor quality and customer service was unhelpful. Never buying again.,0,Negative
+532,Fine product. Does what it is supposed to. No issues.,1,Neutral
+533,Returned immediately. Completely useless and overpriced.,0,Negative
+534,Average quality. Expected more for the price but it works.,1,Neutral
+535,Worst purchase ever. Does not work as advertised. Very disappointed.,0,Negative
+536,Average quality. Expected more for the price but it works.,1,Neutral
+537,Outstanding customer service and the product is amazing.,2,Positive
+538,Product arrived on time. Quality is acceptable.,1,Neutral
+539,"Fantastic product, excellent value for money. Very satisfied.",2,Positive
+540,Average experience overall. Product is usable but not impressive.,1,Neutral
+541,It is alright. Does what it says. Not amazing but not bad.,1,Neutral
+542,Fine product. Does what it is supposed to. No issues.,1,Neutral
+543,"Cheap materials, bad design. Would not recommend to anyone.",0,Negative
+544,Total disappointment. Save your money and buy from someone else.,0,Negative
+545,Outstanding customer service and the product is amazing.,2,Positive
+546,Complete garbage. Stopped working after a week. Total scam.,0,Negative
+547,Works as described. Nothing extraordinary but gets the job done.,1,Neutral
+548,"Fantastic product, excellent value for money. Very satisfied.",2,Positive
+549,Complete garbage. Stopped working after a week. Total scam.,0,Negative
+550,"Fantastic product, excellent value for money. Very satisfied.",2,Positive
+551,"Brilliant product, delivered quickly, exactly as described.",2,Positive
+552,Love it! Perfect for my needs. Will order more soon.,2,Positive
+553,Horrible product and even worse customer support. Avoid at all costs.,0,Negative
+554,Love it! Perfect for my needs. Will order more soon.,2,Positive
+555,Works as described. Nothing extraordinary but gets the job done.,1,Neutral
+556,Exceptional quality. Would highly recommend this to everyone.,2,Positive
+557,Average experience overall. Product is usable but not impressive.,1,Neutral
+558,It is alright. Does what it says. Not amazing but not bad.,1,Neutral
+559,Best purchase I made this year. Highly recommend to everyone.,2,Positive
+560,Incredible product! Far better than I expected. Five stars!,2,Positive
+561,"Cheap materials, bad design. Would not recommend to anyone.",0,Negative
+562,Extremely disappointed. Product looked nothing like the pictures.,0,Negative
+563,Love it! Perfect for my needs. Will order more soon.,2,Positive
+564,Incredible product! Far better than I expected. Five stars!,2,Positive
+565,Decent product. Shipping was fine. Nothing to complain about.,1,Neutral
+566,"Product is okay, nothing special but does the job.",1,Neutral
+567,Returned immediately. Completely useless and overpriced.,0,Negative
+568,Super happy with my order. Everything arrived on time and works great.,2,Positive
+569,Horrible product and even worse customer support. Avoid at all costs.,0,Negative
+570,Returned immediately. Completely useless and overpriced.,0,Negative
+571,"Product is okay, nothing special but does the job.",1,Neutral
+572,Outstanding customer service and the product is amazing.,2,Positive
+573,Decent product. Shipping was fine. Nothing to complain about.,1,Neutral
+574,Horrible product and even worse customer support. Avoid at all costs.,0,Negative
+575,Works as described. Nothing extraordinary but gets the job done.,1,Neutral
+576,Incredible product! Far better than I expected. Five stars!,2,Positive
+577,"Great quality, fast delivery. Will definitely buy again!",2,Positive
+578,Fine product. Does what it is supposed to. No issues.,1,Neutral
+579,Works as described. Nothing extraordinary but gets the job done.,1,Neutral
+580,Love it! Perfect for my needs. Will order more soon.,2,Positive
+581,Absolutely love this product! Works perfectly and exceeded my expectations.,2,Positive
+582,"Great quality, fast delivery. Will definitely buy again!",2,Positive
+583,Complete garbage. Stopped working after a week. Total scam.,0,Negative
+584,Worst purchase ever. Does not work as advertised. Very disappointed.,0,Negative
+585,Average quality. Expected more for the price but it works.,1,Neutral
+586,"Great quality, fast delivery. Will definitely buy again!",2,Positive
+587,Decent product. Shipping was fine. Nothing to complain about.,1,Neutral
+588,"Fantastic product, excellent value for money. Very satisfied.",2,Positive
+589,Terrible product! Broke after one day of use. Complete waste of money.,0,Negative
+590,"Product is okay, nothing special but does the job.",1,Neutral
+591,Works as described. Nothing extraordinary but gets the job done.,1,Neutral
+592,"Okay product, reasonable price. Would not go out of my way to recommend.",1,Neutral
+593,Arrived damaged and company refused to replace it. Awful experience.,0,Negative
+594,Incredible product! Far better than I expected. Five stars!,2,Positive
+595,Outstanding customer service and the product is amazing.,2,Positive
+596,Poor quality and customer service was unhelpful. Never buying again.,0,Negative
+597,Total disappointment. Save your money and buy from someone else.,0,Negative
+598,Satisfactory. Meets the basic requirements.,1,Neutral
+599,Best purchase I made this year. Highly recommend to everyone.,2,Positive
+600,Satisfactory. Meets the basic requirements.,1,Neutral
